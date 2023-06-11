@@ -3,8 +3,8 @@
 ## Spring 2023
 
 Hosted here
-joserenter1a.github.io/skills-release-based-workflow
-
+[joserenter1a.github.io/skills-release-based-workflow
+](https://joserenter1a.github.io/skills-release-based-workflow/)
 ### Learning Objectives:
 
 - Create a beta release.
